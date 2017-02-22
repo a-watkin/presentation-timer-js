@@ -1,0 +1,141 @@
+/* Adam Watkin 2017 */
+body {
+    font-family: sans-serif;
+    color: #333;
+}
+#container {
+    width: 450px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    
+    border-style: solid;
+    border-width: 5px;
+}
+
+#warningArea {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 32px;
+    display: block;
+/*    width: auto;*/
+    resize: none;
+    
+/*    border-style: solid;*/
+/*    border-width: 5px;*/
+    
+    min-height: 140px;
+    padding-top: 1.2em;
+    padding-bottom: 0em;
+    
+/*    makes it closer to the counter*/
+    margin-top: -80px;
+}
+
+
+h1 { 
+    margin: auto;
+    font-size: 5em;
+    text-align: center;
+    color: black;
+    
+/*    border-style: solid;*/
+/*    border-width: 5px;*/
+/*    border-color: green;*/
+    
+    min-height: 150px;
+    padding-top: 0.4em;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    
+/*    prevent button resize */
+    width:38%;
+    
+    
+    color: white;
+    padding: 15px 59px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 26px;
+/*    cursor: pointer;*/
+    width: 18px
+        
+    border-style: solid;
+    border-width: 5px;
+    
+    margin-top: -18px;
+    margin-bottom: 20px;
+}
+
+
+#inputArea {
+    
+    margin-top: -38px;
+    
+/*
+    border-style: solid;
+    border-width: 0.4em;
+*/
+    
+    min-height: 14em;
+/*    width: */
+    color: red;
+    text-align: center;
+}
+
+
+h2 {
+    
+    font-size: 1.2em;
+    color: black;
+    text-align: left;
+    padding-left: 20px;
+}
+
+
+input[type=text] {
+    width: auto;
+    padding: 1em 1.2em;
+    margin: 8px 0;
+    margin-left: -170px;
+    box-sizing: border-box;
+    text-align: center;
+    
+    
+    border:2px solid #dadada;
+    
+/*
+    border-width: 0.2em;
+    border-color: green;
+*/
+    
+}
+
+
+
+/*
+input[type=checkbox] {
+    color: pink;
+    width: auto;
+    padding: 12px 20px;
+    padding-left: -20em;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+*/
+
+label {
+    color: black;
+    align-self: left;
+    padding-top: 1.2em;
+    padding-left: 2em;
+    position: absolute;
+    
+}
+

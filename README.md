@@ -6,4 +6,4 @@ It allows for up to two warnings to be displayed visually or audibly or both at 
 
 Requirements about the presentation process at conferences were elicited from Jaana Eigi who provided valuable insights.
 
-This is the JavaScript version that runs as a static single page app. You can see a live version [here](https://a-watkin.github.io/).
+This is the JavaScript version that runs as a static single page app. You can see a live version [here](http://adevwatkin.com/presentation-timer/).
